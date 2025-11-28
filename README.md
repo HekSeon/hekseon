@@ -3,9 +3,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&style=for-the-badge">
   <img src="https://img.shields.io/badge/UnrealEngine-5?logo=unrealengine&style=for-the-badge&color=black">
+  <img src="https://img.shields.io/badge/DirectX11-0078D7?style=for-the-badge">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge">
   <img src="https://img.shields.io/badge/C++-239120?logo=c%2B%2B&style=for-the-badge">
-  <img src="https://img.shields.io/badge/DirectX11-0078D7?style=for-the-badge">
+  
 </p>
 
 ---
@@ -34,6 +35,3 @@ HAL東京でゲームプログラマーを学んでおり、Unity、DirectX11、
 - カフェでコーヒーを飲みながらコーディングするのが至福の時間 ☕  
 
 ---
-
-### 📊 GitHub 統計 / GitHub Stats
-![HekSeon GitHub stats](https://github-readme-stats.vercel.app/api?username=HekSeon&show_icons=true&theme=radical)
